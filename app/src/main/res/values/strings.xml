@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AddAvatar</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_avatar_title" >Выберите </string>
+    <string-array name="addictional_avatar_items">
+        <item>Галерея</item>
+        <item>Камера</item>
+    </string-array>
+</resources>
